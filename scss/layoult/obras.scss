@@ -1,0 +1,19 @@
+.obras{
+    display: grid;
+    grid-template-columns:repeat(2,1fr);
+    grid-template-rows: repeat(2, auto);
+    }
+
+
+
+
+
+.obras__1{
+    border: 2px solid blue;
+    padding: 20px;
+    display: grid;
+    grid-gap:5px;
+    }
+
+
+.imagen__obra{content: icon;height:auto;width: 100%;border-color: black;}

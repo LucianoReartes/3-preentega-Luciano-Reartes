@@ -1,0 +1,44 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    align-items: center;
+    padding: 10px;
+
+    }
+    
+.titulo{
+    width: 150px;
+    height: auto;
+    padding: 20px;
+    display: inline;} 
+
+
+.img-logo{
+    height: 50px;
+    align-items: center;
+    margin-right: 10px;
+
+
+}
+.img-logo:hover{
+    transform: scale(2);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    font-weight: 500;
+}   
+
+
+h2.subtitulo{
+    color: black;
+}
+button.boton{
+    color: black;
+}
+section h3{
+    color:blue;
+}
